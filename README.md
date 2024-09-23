@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/EsraaMamdouh1/Sudoku-Game-using-python/blob/master/Sudoku.png" width="256" height="256">
+  <img src="https://github.com/EsraaMamdouh1/Sudoku-Game-using-python/blob/main/Sudoku.png" width="256" height="256">
   <h2 align="center" style="margin-top: -4px !important;">Sudoku Game: A Fun and Challenging Way to Exercise Your Brain!</h2>
 </p>
 
